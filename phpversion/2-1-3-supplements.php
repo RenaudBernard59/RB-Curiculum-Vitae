@@ -1,6 +1,5 @@
 <section class="supplements">
-<strong>Suppléments</strong>
-<p>Permis B et Voiture<br/>
-<p><abbr title="Reconnaissance Travailleurs Handicaper">RQTH</abbr></p>
-</p>
+	<h2>Suppléments</h2>
+	<p>Permis B et Voiture</p>
+	<p><abbr title="Reconnaissance Travailleurs Handicaper">RQTH</abbr></p>
 </section>
