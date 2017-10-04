@@ -1,8 +1,12 @@
 <section>
+<!--#####-#####-#####-#####-#####-#####-#####-#####-->
 <h3>Compétences en Informatique</h3>
+<!--#####-#####-#####-#####-#####-#####-->
 <p>Connecter, je maitrise l'outil informatique ainsi que la programmation. Je suis actuellement une formation en Web-Dev certfiante en équivalent BAC+2 Développeur Logiciel.</p>
+<!--#####-#####-#####-#####-#####-#####-->
 <p><a class="btn btn-info" href="#section2" data-toggle="collapse" aria-expanded="false" aria-controls="section2" role="button">J'en veux plus !!! &raquo;</a></p>
-</section>
+<!--#####-#####-#####-#####-#####-#####-#####-#####-->
+</section><!--END button section2-->
 <!--#####-#####-#####-#####-#####-#####-#####-#####-->
 <section id="section2"  class="collapse">
 <!--#####-#####-#####-#####-#####-#####-#####-#####-->
@@ -20,4 +24,4 @@
 <!--#####-#####-#####-#####-#####-#####-#####-#####-->
 <?php include("2-3-7-divers-lier.php"); ?>
 <!--#####-#####-#####-#####-#####-#####-#####-#####-->
-</section>
+</section><!--END content section2-->
