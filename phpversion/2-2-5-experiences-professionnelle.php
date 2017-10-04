@@ -1,5 +1,5 @@
 <article class="experience-pro">
-<h2>Expérience professionnelle</h2>
+<h4>Expérience professionnelle</h4>
 <!--#####-#####-#####-#####-#####-#####-->
 <?php include("2-2-5-1-emplois.php"); ?>
 <!--#####-#####-#####-#####-#####-#####-->
