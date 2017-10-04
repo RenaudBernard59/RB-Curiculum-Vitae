@@ -42,7 +42,7 @@ original.php
 2-2-5-3-associatif.php
 //
 2-2-6-liste-competences.php
-
+<!--#####-#####-#####-#####-#####-#####-->
 2-2-7-divers-lier.php
 <!--#####-#####-#####-#####-#####-#####-#####-#####-#####-#####-->
 2-3-competences-informatiques.php
