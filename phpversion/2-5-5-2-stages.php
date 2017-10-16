@@ -1,7 +1,5 @@
 <article class="stages">
 	<h3>Stages</h3>
-	<article class="stages-labo">
-		<h4>Stages en laboratoire</h4>
 		<ul>
 			<li>Travail Base de Données FOLI :
 				<ul>
@@ -28,6 +26,4 @@
 				</ul>
 			</li>
 		</ul>
-	</article>
-</article>
 </article>

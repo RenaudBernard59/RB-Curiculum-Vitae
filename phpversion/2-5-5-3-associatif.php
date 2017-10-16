@@ -1,5 +1,5 @@
 <article class="associations">
-	<h3>Sciences</h3>
+	<h3>Associations</h3>
 	<ul>
 		<li><time datetime="2015-01-01">01/01/2015</time> - <time datetime="2015-12-31">31/12/2015</time> : Geological Society of London (GSL). Burlington House, Piccadilly, London W1J 0BG, Royaume-Uni.
 			<ul>

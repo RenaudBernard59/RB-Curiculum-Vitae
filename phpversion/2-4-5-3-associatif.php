@@ -1,8 +1,8 @@
 <article class="associations">
 	<article class="h3">
-		<h3>Audiovisuel</h3>
+		<h3>Associations</h3>
 		<ul>
-			<li><time datetime="2015-09-01"></time> - <time datetime="2015-08-30">30/08/2015</time> : Photo Club de Lille (PCL). 20-22, rue de la halloterie, 59800 Lille, Nord, France.
+			<li><time datetime="2015-09-01">01/09/2015</time> - <time datetime="2018-08-30">30/08/2018</time> : Photo Club de Lille (PCL). 20-22, rue de la halloterie, 59800 Lille, Nord, France.
 				<ul>
 					<li>Présentation :
 						<ul>

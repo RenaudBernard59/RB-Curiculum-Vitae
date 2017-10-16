@@ -1,8 +1,8 @@
-<section class="competencesGenerales" id="section1">
+<section class="competencesGenerales" id="section2">
 	<!--#####-#####-#####-#####-#####-#####-#####-#####-->
 	<?php include("2-2-1-competences-header.php"); ?>
 	<!--#####-#####-#####-#####-#####-#####-#####-#####-->
-	<section id="section1c"  class="collapse">
+	<section id="section2c"  class="collapse">
 		<!--#####-#####-#####-#####-#####-#####-#####-#####-->
 		<?php include("2-2-2-etudes-diplomantes.php"); ?>
 		<!--#####-#####-#####-#####-#####-#####-#####-#####-->

@@ -1,14 +1,8 @@
-<section class="competencesGenerales" id="section2">
+<section class="competencesGenerales" id="section3">
 	<!--#####-#####-#####-#####-#####-#####-#####-#####-->
-	<h3>Compétences en Informatique</h3>
-	<!--#####-#####-#####-#####-#####-#####-->
-	<p>Connecter, je maitrise l'outil informatique ainsi que la programmation. Je suis actuellement une formation en Web-Dev certfiante en équivalent BAC+2 Développeur Logiciel.</p>
-	<!--#####-#####-#####-#####-#####-#####-->
-	<p><a class="btn btn-info" href="#section2c" data-toggle="collapse" aria-expanded="false" aria-controls="section2" role="button">Plus d'informations &raquo;</a></p>
+	<?php include("2-3-1-competences-header.php"); ?>
 	<!--#####-#####-#####-#####-#####-#####-#####-#####-->
-	<section id="section2c"  class="collapse">
-		<!--#####-#####-#####-#####-#####-#####-#####-#####-->
-		<?php include("2-3-1-competences-header.php"); ?>
+	<section id="section3c"  class="collapse">
 		<!--#####-#####-#####-#####-#####-#####-#####-#####-->
 		<?php include("2-3-2-etudes-diplomantes.php"); ?>
 		<!--#####-#####-#####-#####-#####-#####-#####-#####-->

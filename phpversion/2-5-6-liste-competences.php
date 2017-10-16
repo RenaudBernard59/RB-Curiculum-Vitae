@@ -1,4 +1,3 @@
-
 <article class="logiciels">
 	<h3>Compétences informatiques et logiciels</h3>
 	<ul>

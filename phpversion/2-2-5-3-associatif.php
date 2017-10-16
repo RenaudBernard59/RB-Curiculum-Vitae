@@ -1,5 +1,5 @@
 <article class="associations">
-	<h3>Divers</h3>
+	<h3>Associations</h3>
 	<ul>
 		<li><time datetime="2017-01-01">01/01/2017"</time> - <time datetime="2017-12-31">31/12/2017</time> - Ass des As. 1, Boulevard du Professeur Jules Leclercq  (2ème étage), 59000 Lille, Nord, France.
 			<ul>
